@@ -2,3 +2,5 @@ init commit
 
 ahoj z macu
 ahoj ssh
+
+branch 2
